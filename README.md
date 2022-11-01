@@ -1,1 +1,1 @@
-# sparse-matrix-vector-multiplication
+# SpMV
